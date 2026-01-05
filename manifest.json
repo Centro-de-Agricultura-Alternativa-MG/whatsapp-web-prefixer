@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "WhatsApp Web Prefix",
+  "version": "1.0",
+  "description": "Adicionar Prefixo no WhatsApp Web.",
+  "permissions": ["storage", "tabs", "scripting"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://web.whatsapp.com/*"],
+      "js": ["jquery-3.7.1.min.js", "content.js"]
+    }
+  ]
+}
