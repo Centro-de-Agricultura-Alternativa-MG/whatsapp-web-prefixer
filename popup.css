@@ -58,6 +58,13 @@ button:hover {
   background-color: #1ebe5d;
 }
 
+button:active {
+  transform: translateY(2px);
+  background-color: #1aa34a;
+  box-shadow: 0 2px 0 #127836;
+}
+
+
 .container {
   display: flex;
   flex-direction: column;

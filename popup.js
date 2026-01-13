@@ -21,3 +21,18 @@ document.getElementById("btnSalvar").addEventListener("click", () => {
         console.log("Valores salvos no storage da extensão");
     });
 });
+
+document.getElementById("btnSalvar").addEventListener("click", () => {
+    let salvarMsg = document.querySelector('#salvarMsg');
+
+    if(salvarMsg){
+        salvarMsg.innerText = 'Salvo com sucesso!'
+    }
+
+});
+
+
+document.getElementById("seunome").addEventListener("input", () => {
+    let salvarMsg = document.querySelector('#salvarMsg');
+    salvarMsg.innerText = ''
+});
