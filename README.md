@@ -36,6 +36,7 @@ Atenciosamente,
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/vnscss"><img src="https://avatars.githubusercontent.com/u/147334176?v=4?s=100" width="100px;" alt="Vinícius Alves Pires"/><br /><sub><b>Vinícius Alves Pires</b></sub></a><br /><a href="https://github.com/Centro-de-Agricultura-Alternativa-MG/whatsapp-web-prefixer/commits?author=vnscss" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Luissoaresg"><img src="https://avatars.githubusercontent.com/u/110557943?v=4?s=100" width="100px;" alt="Luis Gustavo Soares"/><br /><sub><b>Luis Gustavo Soares</b></sub></a><br /><a href="https://github.com/Centro-de-Agricultura-Alternativa-MG/whatsapp-web-prefixer/commits?author=Luissoaresg" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
