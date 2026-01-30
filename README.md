@@ -30,4 +30,17 @@ Atenciosamente,
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/vnscss"><img src="https://avatars.githubusercontent.com/u/147334176?v=4?s=100" width="100px;" alt="Vinícius Alves Pires"/><br /><sub><b>Vinícius Alves Pires</b></sub></a><br /><a href="https://github.com/Centro-de-Agricultura-Alternativa-MG/whatsapp-web-prefixer/commits?author=vnscss" title="Documentation">📖</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->

@@ -1,10 +1,25 @@
 {
-  "files": ["README.md"],
+  "files": [
+    "README.md"
+  ],
   "imageSize": 100,
   "commit": true,
   "contributorsPerLine": 7,
   "projectName": "whatsapp-web-prefixer",
   "projectOwner": "Centro-de-Agricultura-Alternativa-MG",
   "repoType": "github",
-  "repoHost": "https://github.com"
+  "repoHost": "https://github.com",
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "vnscss",
+      "name": "Vinícius Alves Pires",
+      "avatar_url": "https://avatars.githubusercontent.com/u/147334176?v=4",
+      "profile": "https://github.com/vnscss",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ]
 }
