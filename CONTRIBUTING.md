@@ -11,6 +11,9 @@ Se você encontrar um erro, por favor abra uma **Issue** detalhando:
 
 ## Fluxo de Trabalho (Workflow)
 
+> ⚠️ **Importante:** a branch mais atualizada do projeto é sempre a **`dev`**.  
+> Todas as contribuições devem partir dela e os Pull Requests devem ser abertos contra a `dev`.
+
 1. Faça um **Fork** do repositório.
 2. Crie uma branch para sua modificação:
    ```bash
