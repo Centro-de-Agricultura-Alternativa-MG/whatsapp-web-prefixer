@@ -7,7 +7,7 @@ class Whatsapp {
 
     updateElements() {
 
-        this.chatInput = document.querySelectorAll('div[contenteditable="true"]')[1];
+        this.chatInput = document.querySelectorAll('div[contenteditable="true"]')[0];
         const chatInput = this.chatInput;
         if (!chatInput) return;
 
