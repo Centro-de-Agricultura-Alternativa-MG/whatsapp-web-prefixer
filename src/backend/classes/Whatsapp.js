@@ -7,7 +7,7 @@ class Whatsapp {
 
     updateElements() {
 
-        this.chatInput = document.querySelectorAll('div[contenteditable="true"]')[0];
+        this.chatInput = document.querySelector('div[aria-placeholder="Digite uma mensagem"]');
         const chatInput = this.chatInput;
         if (!chatInput) return;
 
